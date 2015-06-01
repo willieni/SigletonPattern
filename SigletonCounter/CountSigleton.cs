@@ -15,6 +15,7 @@ namespace SigletonPattern.SigletonCounter
    
 		///´æ´¢¼ÆÊýÖµ
 		private int totNum = 0;  
+
    
 		private CountSigleton() 
    
