@@ -4,8 +4,8 @@ namespace SigletonPattern.Sigleton
 {
 	/// <summary>
 	/// 功能：利用DotNet的特性实现单件模式
-	/// 编写：Terrylee
-	/// 日期：2005年12月06日
+	/// 编写：WillieNi
+	/// 日期：2015年06月01日
 	/// </summary>
 	public class DotNetSigleton
 	{
