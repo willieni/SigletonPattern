@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SigletonClient", "SigletonClient\SigletonClient.csproj", "{932360FB-1F65-4E11-AC0A-D12790BF4DAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sigleton", "Sigleton\Sigleton.csproj", "{937DA624-F432-4C9A-B542-C9BD5667F492}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SigletonCounter", "SigletonCounter\SigletonCounter.csproj", "{DBCEB5B7-A92A-4D57-A4D6-260B4D407083}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{932360FB-1F65-4E11-AC0A-D12790BF4DAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{932360FB-1F65-4E11-AC0A-D12790BF4DAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{932360FB-1F65-4E11-AC0A-D12790BF4DAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{932360FB-1F65-4E11-AC0A-D12790BF4DAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{937DA624-F432-4C9A-B542-C9BD5667F492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{937DA624-F432-4C9A-B542-C9BD5667F492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{937DA624-F432-4C9A-B542-C9BD5667F492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{937DA624-F432-4C9A-B542-C9BD5667F492}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBCEB5B7-A92A-4D57-A4D6-260B4D407083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCEB5B7-A92A-4D57-A4D6-260B4D407083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCEB5B7-A92A-4D57-A4D6-260B4D407083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCEB5B7-A92A-4D57-A4D6-260B4D407083}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
