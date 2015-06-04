@@ -84,6 +84,7 @@
     <Compile Include="CommonSigleton.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="DelaySigleton.cs" />
     <Compile Include="DotNetSigleton.cs">
       <SubType>Code</SubType>
     </Compile>
