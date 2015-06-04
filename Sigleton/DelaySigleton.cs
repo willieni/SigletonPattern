@@ -18,7 +18,7 @@ namespace SigletonPattern.Sigleton
             }
         }
 
-        class Nested
+        private class Nested
         {
             static Nested()
             {
